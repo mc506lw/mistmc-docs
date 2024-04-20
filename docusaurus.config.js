@@ -117,12 +117,12 @@ const config = {
             title: '岚域相关',
             items: [
               {
-                label: 'Mist皮肤站',
-                href: 'https://skin.mistmc.top/',
+                label: 'QQ群[⭐]',
+                href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=T6yM-D3bmhVyfNCPUYXJVHvsR-lnBS5L&authKey=RHNudvIQ0B747p581y93kX6Cb%2FW88%2FQ%2FFQtnpTb7xciDcaQH3hBuVTe6pKMAA7Jj&noverify=0&group_code=807505406',
               },
               {
-                label: 'QQ群',
-                href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=T6yM-D3bmhVyfNCPUYXJVHvsR-lnBS5L&authKey=RHNudvIQ0B747p581y93kX6Cb%2FW88%2FQ%2FFQtnpTb7xciDcaQH3hBuVTe6pKMAA7Jj&noverify=0&group_code=807505406',
+                label: 'Mist皮肤站',
+                href: 'https://skin.mistmc.top/',
               },
               {
                 label: '岚域的爱发电',
@@ -136,6 +136,10 @@ const config = {
               {
                 label: '老万的Bilibili',
                 href: 'https://space.bilibili.com/696652305',
+              },
+              {
+                label: 'MC506工作室官网[旧]',
+                href: 'https://mc506lw.github.io/',
               },
             ],
           },
