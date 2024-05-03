@@ -36,6 +36,12 @@ const config = {
     locales: ['zh-Hans'],
   },
 
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
+
   presets: [
     [
       'classic',
@@ -73,11 +79,18 @@ const config = {
     },
   ],
 
+
+  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      
+      mermaid: {
+        theme: {light: 'neutral', dark: 'forest'},
+      },
+      
       navbar: {
         title: '岚·域官网',
         logo: {
