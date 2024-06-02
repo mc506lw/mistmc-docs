@@ -106,6 +106,11 @@ const config = {
           },
           {to: '/blog', label: '公告', position: 'left'},
           {to: '/history', label: '历史', position: 'left'},
+          {
+            href: 'https://status.mistmc.top/',
+            label: '状态监控',
+            position: 'left',
+          },
           // {to: '/ipnew', label: '地址发布页', position: 'left'},
           {
             href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=T6yM-D3bmhVyfNCPUYXJVHvsR-lnBS5L&authKey=RHNudvIQ0B747p581y93kX6Cb%2FW88%2FQ%2FFQtnpTb7xciDcaQH3hBuVTe6pKMAA7Jj&noverify=0&group_code=807505406',
