@@ -126,8 +126,12 @@ const config = {
             title: '宣传',
             items: [
               {
-                label: '宣传视频',
-                href: 'https://www.bilibili.com/video/BV1eJ4m1j7Ha',
+                label: '岚域官方B站账号',
+                href: 'https://space.bilibili.com/3546689776388263',
+              },
+              {
+                label: '岚域在TinkSP上的宣传贴',
+                href: 'https://www.tinksp.com/threads/1-20-x.571/',
               },
             ],
           },
