@@ -12,7 +12,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">岚·域</h1>
+        <h1 className="hero__title">岚域文档站</h1>
         <p className="hero__subtitle">紧跟时代的Minecraft生存服务器</p>
         <div className={styles.buttons}>
           <Link
@@ -29,7 +29,7 @@ function HomepageHeader() {
 export default function Home() {
   return (
     <Layout
-      title="岚·域"
+      title="岚域文档站"
       description="紧跟时代的Minecraft生存服务器">
       <HomepageHeader />
       <main>

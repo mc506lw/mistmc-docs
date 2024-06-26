@@ -10,12 +10,12 @@ import rehypeKatex from 'rehype-katex';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '岚·域官网',
-  tagline: '岚·域文档',
+  title: '岚域文档',
+  tagline: 'Mistmc Docs',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://mistmc.top',
+  url: 'https://docs.mistmc.top',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -92,19 +92,23 @@ const config = {
       },
       
       navbar: {
-        title: '岚·域官网',
+        title: '岚域文档',
         logo: {
           alt: 'Mist',
           src: 'img/logo.svg',
         },
         items: [
           {
+            href: 'https://mistmc.top/',
+            label: '岚域官网',
+            position: 'left',
+          },
+          {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: '文档',
           },
-          {to: '/blog', label: '公告', position: 'left'},
           {to: '/history', label: '历史', position: 'left'},
           {
             href: 'https://status.mistmc.top/',
