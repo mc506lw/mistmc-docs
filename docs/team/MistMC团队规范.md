@@ -9,10 +9,6 @@ moshushi：维护插件，客服，官网维护
 
 ljh：财务，备份，客服，找资源
 
-NmouZH：小型插件开发
-
-wuyf：
-
 ddbox：活动策划，官网维护
 
 Tangle Patrick：大型插件开发

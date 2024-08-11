@@ -1,0 +1,8 @@
+{
+  "label": "特殊武器",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "强大的武器"
+  }
+}
